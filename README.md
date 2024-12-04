@@ -4,4 +4,4 @@ Una tarjeta web especial, para una fecha especial. Invitación que cuenta con un
 
 Se puede visitar en: https://estefiycristian.online/
 
-Otro proyecto de [text](https://ekoddex.com/)
+Otro proyecto de [eKoddex](https://ekoddex.com/)
