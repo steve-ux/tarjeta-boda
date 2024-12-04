@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tarjeta-boda/static/css/main.d826f513.css",
-    "main.js": "/tarjeta-boda/static/js/main.633b9624.js",
+    "main.js": "/tarjeta-boda/static/js/main.f1343830.js",
     "static/js/453.83540f6d.chunk.js": "/tarjeta-boda/static/js/453.83540f6d.chunk.js",
     "static/media/Fondo web-wedding.jpeg.jpg": "/tarjeta-boda/static/media/Fondo web-wedding.jpeg.7e2fa3072384686eb501.jpg",
     "static/media/Tarjeta Boda.png": "/tarjeta-boda/static/media/Tarjeta Boda.9dffb9b6bfbe3bcbcb40.png",
@@ -15,11 +15,11 @@
     "static/media/Musica Boda.png": "/tarjeta-boda/static/media/Musica Boda.0df36f863aeee89065d0.png",
     "index.html": "/tarjeta-boda/index.html",
     "main.d826f513.css.map": "/tarjeta-boda/static/css/main.d826f513.css.map",
-    "main.633b9624.js.map": "/tarjeta-boda/static/js/main.633b9624.js.map",
+    "main.f1343830.js.map": "/tarjeta-boda/static/js/main.f1343830.js.map",
     "453.83540f6d.chunk.js.map": "/tarjeta-boda/static/js/453.83540f6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d826f513.css",
-    "static/js/main.633b9624.js"
+    "static/js/main.f1343830.js"
   ]
 }
