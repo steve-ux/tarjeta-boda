@@ -1,5 +1,5 @@
 const updateCountdown = () => {
-    const targetDate = new Date("2025-02-22T21:00:00"); // Cambia al día y hora exactos de la boda
+    const targetDate = new Date("2025-02-22T20:30:00"); // Cambia al día y hora exactos de la boda
     const currentDate = new Date();
     const timeDifference = targetDate - currentDate;
   
@@ -13,8 +13,8 @@ const updateCountdown = () => {
   
       countdownContainer.innerHTML = `
         Faltan <strong>${days}</strong> días, 
-        <strong>${hours}</strong> : 
-        <strong>${minutes}</strong> : 
+        <strong>${hours}</strong>: 
+        <strong>${minutes}</strong>: 
         <strong>${seconds}</strong> segundos.
       `;
     } else {
