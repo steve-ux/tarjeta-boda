@@ -13,9 +13,9 @@ const updateCountdown = () => {
   
       countdownContainer.innerHTML = `
         Faltan <strong>${days}</strong> días, 
-        <strong>${hours}</strong> horas, 
-        <strong>${minutes}</strong> minutos y 
-        <strong>${seconds}</strong> segundos para el gran día.
+        <strong>${hours}</strong> : 
+        <strong>${minutes}</strong> : 
+        <strong>${seconds}</strong> segundos.
       `;
     } else {
       countdownContainer.innerHTML = "¡Es el gran día! 💍🎉";
