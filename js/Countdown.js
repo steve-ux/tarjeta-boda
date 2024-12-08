@@ -12,7 +12,7 @@ const updateCountdown = () => {
       const seconds = Math.floor((timeDifference / 1000) % 60);
   
       countdownContainer.innerHTML = `
-        Faltan <strong>${days}</strong> días, 
+        Faltan <strong>${days}</strong> días y <br/> 
         <strong>${hours}</strong>: 
         <strong>${minutes}</strong>: 
         <strong>${seconds}</strong> segundos.
